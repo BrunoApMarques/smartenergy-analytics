@@ -2,7 +2,7 @@
 
 Plataforma de **Data Analytics para interrupções de energia**, construída em **Python + PostgreSQL + Power BI**.
 
-Este projeto foi desenvolvido como estudo prático alinhado a vagas de **Data Analytics Jr. (PCD)** em empresas do setor elétrico, como a **CPFL Energia**.
+Este projeto foi desenvolvido como estudo prático** em empresas do setor elétrico**.
 
 ---
 
